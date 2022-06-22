@@ -10,5 +10,8 @@ We will aim to use the models created by serre-lab.
 
  relevant papers:
 
- Mely et al., (2018) Complementary surrounds explain diverse contextual phenomena across visual modalities.
- Linsley et al. (2019) Learning long-range spatial dependencies with horizontal gated recurrent units.
+ - Mely et al., (2018) Complementary surrounds explain diverse contextual phenomena across visual modalities.
+ 
+ - Linsley et al. (2019) Learning long-range spatial dependencies with horizontal gated recurrent units.
+
+
